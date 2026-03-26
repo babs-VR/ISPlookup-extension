@@ -104,12 +104,3 @@ Replace the files in the `icons/` folder with your own images at the correct siz
 
 ---
 
-## Related Tools
-
-- [Phone Number Converter](../phone-converter-extension/) — convert between `(000) 999-9999` and `0009999999` formats with batch support
-
----
-
-## License
-
-MIT
